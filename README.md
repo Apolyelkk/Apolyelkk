@@ -1,16 +1,132 @@
-## Hi there 👋
+# 👨🏻‍💻 Apolyel Kauã dos Santos
 
-<!--
-**Apolyelkk/Apolyelkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me chamo Apolyel Kauã dos Santos, sou apaixonado por tecnologia, programação e resolução de problemas. Autodidata desde cedo, já desenvolvi diversos projetos, incluindo aplicativos em Flutter, bots para Telegram e automações para WhatsApp. Tenho experiência em desenvolvimento web e mobile, utilizando linguagens e frameworks modernos como Node, React, PHP, Next.js, HTML, CSS e Laravel. Estou sempre buscando aprender novas tecnologias e aplicá-las para criar soluções eficientes e inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/Apolyelkk?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/Apolyelkk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Apolyelkk?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/Apolyelkk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+    <img
+        align="left"
+        alt="Flutter"
+        title="Flutter"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+    />
+    <img
+        align="left"
+        alt="Dart"
+        title="Dart"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+    />
+    <img
+        align="left"
+        alt="Node.js"
+        title="Node.js"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    />
+    <img
+        align="left"
+        alt="React"
+        title="React"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    />
+    <img
+        align="left"
+        alt="Next.js"
+        title="Next.js"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    />
+    <img
+        align="left"
+        alt="PHP"
+        title="PHP"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    />
+    <img
+        align="left"
+        alt="Laravel"
+        title="Laravel"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+    />
+    <img
+        align="left"
+        alt="JavaScript"
+        title="JavaScript"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    />
+    <img
+        align="left"
+        alt="HTML"
+        title="HTML"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    />
+    <img
+        align="left"
+        alt="CSS"
+        title="CSS"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    />
+</p>
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Apolyelkk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+      align="left"
+      alt="Top Langs"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolyelkk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
